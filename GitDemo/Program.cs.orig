@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GitDemo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+<<<<<<< HEAD
+            Console.WriteLine("Hello World 2");
+=======
+            Console.WriteLine("Hi Bob again!");
+>>>>>>> aebf45d27f30ac1bfe734cd85ccd740eb62f86ba
+        }
+    }
+}
